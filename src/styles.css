@@ -7,6 +7,7 @@ body {
     display: grid;
     justify-content: center;
     height: 100vh;
+    justify-items: center;
 }
 
 h1 {
@@ -38,7 +39,7 @@ nav > button:not(:last-child) {
 }
 
 nav > button:hover {
-    background-color: rgba(240, 248, 255, 0.491);
+    background-color: rgba(240, 248, 255, 0.5);
     color: var(--accent-clr);
 }
 
