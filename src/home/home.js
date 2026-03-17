@@ -8,6 +8,7 @@ export function Home() {
     const textContainer = document.createElement("div");
     const h2 = document.createElement("h2");
     h2.textContent = "Welcome, Traveler!";
+    h2.classList.add("hero-title");
     
     const img = document.createElement("img");
     img.src = heroImg;
