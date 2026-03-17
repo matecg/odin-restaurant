@@ -1,0 +1,84 @@
+{
+  "tavern_name": "Mead & Thunder Tavern",
+  "currency": "Gold Coins",
+  "menu": {
+    "entries": [
+      {
+        "title": "The Shield-Wall Sampler",
+        "description": "A sturdy platter of smoked cheeses and hard tack crackers. Perfect for blocking hunger until the real fight begins.",
+        "price": 5
+      },
+      {
+        "title": "Boar-Slayer’s Bacon Knots",
+        "description": "Crispy, thick-cut pork glazed in forest honey. We promise we caught the boar ourselves (mostly).",
+        "price": 7
+      },
+      {
+        "title": "Ragnar’s 'Mistake' Stew",
+        "description": "A thick root vegetable soup that was supposed to be a sauce. It’s surprisingly good if you don't ask what the 'crunchy bit' is.",
+        "price": 4
+      }
+    ],
+    "main_courses": [
+      {
+        "title": "The Great Axe Rib",
+        "description": "A single, massive beef rib that looks like it was carved by a giant. Comes with a side of 'victory potatoes'.",
+        "price": 15
+      },
+      {
+        "title": "Valhalla’s Roast Bird",
+        "description": "A whole roasted chicken basted in herbs and butter. Guaranteed to make you feel like you've already made it to the afterlife.",
+        "price": 12
+      },
+      {
+        "title": "Longboat Salmon",
+        "description": "Freshly caught fish seared over an open flame. It’s served on a wooden plank because plates are for the weak.",
+        "price": 14
+      },
+      {
+        "title": "The Berserker’s Bowl",
+        "description": "A mountain of venison meatballs and heavy cream sauce. Eat this only if you plan on sleeping for three days straight.",
+        "price": 11
+      }
+    ],
+    "desserts": [
+      {
+        "title": "Loki’s Lemon Tarts",
+        "description": "Small, zesty pastries that are sweet at first but pack a sour punch. Just like the god of mischief himself.",
+        "price": 6
+      },
+      {
+        "title": "Yggdrasil Apple Crumble",
+        "description": "Baked apples topped with oats and cinnamon. It’s the 'Tree of Life' in a bowl, or at least a very tasty branch.",
+        "price": 5
+      },
+      {
+        "title": "Fjord Frost Cream",
+        "description": "Cold, whipped cream topped with wild mountain berries. It’s the only thing in this tavern colder than a winter raid.",
+        "price": 4
+      }
+    ],
+    "beverages": [
+      {
+        "title": "Thunder Scar Homebrew",
+        "description": "Our signature mead, aged in charred barrels for a smoky, electrifying finish. One sip and you’ll feel the lightning in your veins!",
+        "price": 8
+      },
+      {
+        "title": "The Drunken Skald’s Ale",
+        "description": "A light, crisp blonde ale that makes even the worst singing sound like a masterpiece.",
+        "price": 3
+      },
+      {
+        "title": "Mountain Goat Milk",
+        "description": "For the designated chariot drivers. It’s thick, creamy, and definitely didn't come from a cow.",
+        "price": 2
+      },
+      {
+        "title": "Odin’s Eye Coffee",
+        "description": "Dark, bitter brew that will keep you awake through the longest winter nights.",
+        "price": 4
+      }
+    ]
+  }
+}
