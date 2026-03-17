@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: coral;
+    background-color: hsl(35, 85%, 90%);
     display: grid;
     justify-content: center;
     height: 100vh;
@@ -14,6 +14,7 @@ h1 {
     text-align: center;
     margin-bottom: 30px;
     color: var(--accent-clr);
+    font-size: 2.5rem;
 }
 
 header {
@@ -25,20 +26,20 @@ nav {
     display: flex;
 }
 
-nav > button {
+nav>button {
     border: none;
-    background-color: coral;
+    background-color: hsl(35, 85%, 90%);
     padding: 4px 20px;
     flex: 1;
     cursor: pointer;
     font-weight: 600;
 }
 
-nav > button:not(:last-child) {
+nav>button:not(:last-child) {
     border-right: 2px solid var(--accent-clr);
 }
 
-nav > button:hover {
+nav>button:hover {
     background-color: rgba(240, 248, 255, 0.5);
     color: var(--accent-clr);
 }
