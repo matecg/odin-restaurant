@@ -1,0 +1,26 @@
+{
+  "about_page": {
+    "about_sections": [
+      {
+        "title": "The Saga of Our Stones",
+        "content": "The Mead & Thunder Tavern wasn’t exactly 'built'—it was more of a happy accident involving a misinterpreted prophecy and a very large pile of leftover timber. Founded by Bjorn the Forgetful, who originally intended to build a grand library but accidentally bought three hundred barrels of honey instead, we’ve been the premier destination for thirsty warriors since the Great Spillage of '84. We pride ourselves on having the sturdiest tables in the realm, mostly because our patrons have a habit of slamming their tankards down with the force of a falling glacier."
+      },
+      {
+        "title": "Finding the Feast",
+        "content": "Locating us is a test of mettle and basic survival skills. From the Whispering Woods, head North until you see a rock that looks vaguely like a disappointed walrus; if the rock looks happy, you’ve gone too far and are likely in Troll territory. Follow the smell of scorched boar and the sound of off-key singing until you reach the clearing with the 'No Gremlins Allowed' sign. If you find yourself being chased by a mountain goat, don't panic—that’s just our unofficial welcoming committee."
+      },
+      {
+        "title": "The Legend of the Thunder Scar",
+        "content": "While our food is legendary, the true heart of this tavern flows from the charred barrels of our Thunder Scar mead. Legend says the first batch was struck by a stray bolt of lightning during a summer storm, though our head brewer insists he just dropped a very hot poker into the vat by mistake. Regardless of its origin, this homebrew carries a smoky, electric finish that tingles the tongue and emboldens the spirit. It’s the only drink in the Nine Realms that tastes like a victory march and feels like a friendly punch in the gut."
+      }
+    ],
+    "testimonial_section": {
+      "section_title": "A Word from Our Regulars",
+      "quote": {
+        "author": "Thor, God of Thunder",
+        "content": "I’ve traveled across the Bifrost and back, but nothing hits quite like a cold tankard of Thunder Scar. It’s the only drink that makes my hammer feel light and my brother Loki feel tolerable. Five stars, or I’ll smite the building!",
+        "verified": true
+      }
+    }
+  }
+}

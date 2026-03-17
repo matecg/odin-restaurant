@@ -1,0 +1,10 @@
+.about-img {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.about-container {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
